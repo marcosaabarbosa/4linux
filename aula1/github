@@ -1,0 +1,11 @@
+git init
+
+git status
+
+git add .
+
+git commit -m 'mensagem'
+
+git push -u origin master
+
+git config --global user.mail esp.cob@gmail.com
